@@ -18,4 +18,4 @@ spec:
       - name: netflix-app
         image: xshadab/netflix:latest
         ports:
-        - containerPort: 30007
+        - containerPort: 30008
